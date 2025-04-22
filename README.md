@@ -1,4 +1,4 @@
-# dum_fb_url
+# dump_fb_url
 download facebook video from url
 To download a Facebook video reel using Python, you typically need to:
 
